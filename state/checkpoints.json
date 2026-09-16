@@ -1,0 +1,17 @@
+{
+    "Punjab PPRA": {
+        "last_date": "2026-09-15",
+        "last_tender_key": "https://eproc.punjab.gov.pk/Tenders/50485054/4857/1509202606021956521152255930.pdf",
+        "last_run_at": "2026-09-15T18:29:28+05:00"
+    },
+    "Federal PPRA": {
+        "last_date": "2026-09-15",
+        "last_tender_key": "TS0000010793E",
+        "last_run_at": "2026-09-15T18:29:22+05:00"
+    },
+    "Balochistan PPRA": {
+        "last_date": "2026-09-15T00:00:00",
+        "last_tender_key": "TSE-2627091194233",
+        "last_run_at": "2026-09-15T18:30:47+05:00"
+    }
+}
